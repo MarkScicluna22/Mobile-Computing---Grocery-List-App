@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443053706",
+    "project_id": "grocerylistapplogin",
+    "storage_bucket": "grocerylistapplogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443053706:android:cd678f03d804ccf493df73",
+        "android_client_info": {
+          "package_name": "com.example.grocerylistapplogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV0BGVUmy-vJeQY3UmyvCpmoDRsywg6yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
